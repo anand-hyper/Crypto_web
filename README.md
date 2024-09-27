@@ -1,4 +1,4 @@
-#Cryptocurrency Price Tracker App
+# Cryptocurrency Price Tracker App
 This project is a Cryptocurrency Price Tracker built with React.js that utilizes a RESTful API to fetch and display real-time prices of various cryptocurrencies. The app provides a clean and responsive user interface to track market prices in real-time.
 
 Features:
